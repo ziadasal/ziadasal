@@ -1,38 +1,107 @@
-### Hi there 👋, My name is Ziad Assal
-#### Data Analysis
-![Data Analysis](https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/02/Sofia-some-.jpg)
+![Header](https://th.bing.com/th/id/R.bcf68c1f5aa736f48aa4f86e81894602?rik=P63akbkvm3%2fOug&riu=http%3a%2f%2fcorpusconsulting.in%2fwp-content%2fuploads%2f2015%2f11%2fbuilding-capabilities1-6.jpg&ehk=MwW6Qu4Qsg3kJpcFj2qCvFLVoTLcEzFGp1p2tHQByoY%3d&risl=&pid=ImgRaw&r=0?raw=true "Header")
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ziad-assal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+</p>
 
-Skills: Python / SQL / Excel / Power bi / Tableau 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ziadasal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ziad-assal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powerbi.svg' alt='powerbi' height='40'>](https://www.novypro.com/profile_projects/ziadasal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/ziadasal)  
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadasal)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadasal&show_icons=true&count_private=true)  
+# Hello There! <img src="https://th.bing.com/th/id/R.fb48d654a18b552077522b355f721cec?rik=AsmQI1uTuIdvxA&pid=ImgRaw&r=0?raw=true" width="30">
+ <!-- Profile views -->
+ <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" align="right" height="300">
+ 
+ <p align="left">My name is Ziad Assal and I'm a Data analyist .
+  
+  I'm from Egypt and currently studying ML.
+  
+</p>
 
 
+🌱 I’m currently learning Python, Power Bi and ML
+
+👯 I’m looking to collaborate on different projects
+
+👨‍💻 some of my projects in power bi are available at [NovyPro](https://www.novypro.com/profile_projects/ziadasal)
+
+👀 Ask me about Data, Excel, Power Bi
+
+<br>
 
 
-<!--
-**ziadasal/ziadasal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Technologies & Tools 🔧
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tools-Power%20bi-brightgreen)
+![](https://img.shields.io/badge/Tools-Tableau%20-brightgreen)
+![](https://img.shields.io/badge/Tools-Excel-brightgreen)
+![](https://img.shields.io/badge/Editor-Jupyter%20notebook-brightgreen)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
+<br>
 
-Here are some ideas to get you started:
+# GitHub Stats 📈
+<a href="https://github.com/ziadasal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadasal&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ziadasal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadasal&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Ziad's GitHub Stats" />
+</a>
+<br><br>
+
+<a href="https://github.com/ziadasal">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziadasal&theme=radical&hide_border=true)](https://github.com/ziadasal" alt="Ziad's GitHub Stats Graph"/>
+</a>
+<br><br>
+
+<!-- <a  href="https://github.com/ziadasal">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadasal&theme=dark" alt="Rahul's GitHub Streak Stats"/>
+</a> -->
+<br><br>
+
+<br><br>
+
+<a href="https://github.com/ziadasal/Crop-Yield-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziadasal&repo=Crop-Yield-Prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/ziadasal/SparkFoundation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziadasal&repo=SparkFoundation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<br><br>
+
+
+## Extras 📝
+  <details>
+  <summary>Click to expand!</summary>
+  <br>
+    <p>
+<a href="https://github.com/ziadasal?tab=followers">
+    <img src="https://img.shields.io/github/followers/ziadasal?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  </a>
+ </p>
+ <br>
+  <p>
+  <img src="https://github-profile-trophy.vercel.app/?username=ziadasal&theme=onedark&column=3&margin-w=15&margin-h=15" />
+  </p>
+  <br>
+ <img src="https://metrics.lecoq.io/ziadasal?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   
+</details>
+
+<!-- icons with padding -->
+
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[2]: https://github.com/ziadasal
+[3]: https://www.linkedin.com/in/ziad-assal/
