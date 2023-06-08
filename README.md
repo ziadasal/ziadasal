@@ -60,8 +60,6 @@
 </a> -->
 <br><br>
 
-<br><br>
-
 ## Some Projects 💻
 
 <a href="https://github.com/ziadasal/Crop-Yield-Prediction">
