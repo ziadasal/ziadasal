@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, My name is Ziad Assal
+#### Data Analyst 
+![Data Analyst ](https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/02/Sofia-some-.jpg)
+
+Student at faculty of engineering in computer engineering department. Having experience in python ,SQL ,excel to analysis data and visualized it using power BI. As career aiming to be data analyst as having interest in data. 
+
+Skills: python  / SQL / excel / power BI/ Tableau 
+
+
+
+
 
 <!--
 **ziadasal/ziadasal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
