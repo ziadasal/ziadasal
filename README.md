@@ -11,20 +11,20 @@
  <!-- Profile views -->
  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" align="right" height="300">
  
- <p align="left">My name is Ziad Assal and I'm a Data analyist .
+ <p align="left">My name is Ziad Assal and I'm a BI Developer .
   
   I'm from Egypt and currently studying ML.
   
 </p>
 
 
-🌱 I’m currently learning Python, Power Bi and ML
+🌱 I’m currently learning SQL, ETL Tools and Docker
 
 👯 I’m looking to collaborate on different projects
 
 👨‍💻 some of my projects in power bi are available at [NovyPro](https://www.novypro.com/profile_projects/ziadasal)
 
-👀 Ask me about Data, Excel, Power Bi
+👀 Ask me about Data, SQL , Python , Alteryx , Power Bi , Tabluea
 
 <br>
 
